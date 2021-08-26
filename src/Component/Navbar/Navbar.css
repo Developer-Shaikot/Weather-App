@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+    font-size: 15px;
+    padding: 7px;
+
+}
+.bg{
+    background-color: rgba(5, 11, 15, 0.466);
+}
+nav a:hover{
+    text-decoration:none;
+    background-color: rgb(24, 178, 224);
+    border-radius: 2px;
+}
+nav a{
+    display: flex;
+    margin-left: 300px;
+}
+.siteName{
+    color: rgb(53, 196, 240);
+    margin-left: 20px;
+    font-family: 'Merriweather', serif;
+    font-style:oblique;
+    font-size: 30px;
+}
+.app {
+    color: rgb(240, 227, 53);
+    margin-left: 20px;
+    font-family: 'Merriweather', serif;
+    font-style:normal;
+    font-size: 30px;
+}
+.custom-toggler.navbar-toggler {
+    border-color: rgb(0, 183, 255);
+  } 

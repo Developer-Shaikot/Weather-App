@@ -1,0 +1,31 @@
+.back{
+    height: 100%;
+    position: relative;
+    background-image: linear-gradient(
+          
+        rgba(0, 0, 0, 0.884),rgba(0, 0, 0, 0.527)
+      ),  url(../../images/boundary-frequency-update-690-px.jpg);
+    background-size: cover;
+    min-height: 110vh;
+    font-family: 'Merriweather', serif;
+}
+
+.main {
+    display: flex;
+    margin-left: 7%;
+}
+.day {
+    margin: 15px;
+    background-color: rgba(5, 11, 15, 0.466);
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0px 0px 3px black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.footer{
+    margin-top:25%;
+}

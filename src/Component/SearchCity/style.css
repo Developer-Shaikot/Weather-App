@@ -1,0 +1,6 @@
+.main input, main .button {
+    align-items: center;
+    padding:  8px;
+    border-radius: 4px;
+    margin: 5px;
+}
