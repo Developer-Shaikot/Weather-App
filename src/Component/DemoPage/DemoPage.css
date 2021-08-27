@@ -1,0 +1,11 @@
+.demo {
+    height: 100%;
+    position: relative;
+    background-image: linear-gradient(
+          
+        rgba(0, 0, 0, 0.884),rgba(0, 0, 0, 0.527)
+      ),  url(../../images/boundary-frequency-update-690-px.jpg);
+    background-size: cover;
+    min-height: 110vh;
+    font-family: 'Merriweather', serif;
+}

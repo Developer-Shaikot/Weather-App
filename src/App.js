@@ -12,6 +12,14 @@ import {
 } from "react-router-dom";
 
 import Home from './Component/Home/Home';
+import DemoPage from "./Component/DemoPage/DemoPage";
+
+
+
+
+
+
+
 
 export const UserContext = createContext();
 
@@ -23,6 +31,9 @@ function App() {
      <Switch>
        <Route exact path="/">
          <Home/>
+       </Route>
+       <Route exact path="/login">
+        <DemoPage/>
        </Route>
        </Switch>
        </Router>
