@@ -1,4 +1,4 @@
-#  Project Name : Retro Themed Blog
+#  Project Name - Weather APP
 
 • Live-site-link : https://weather-app-29af4.web.app/
 
